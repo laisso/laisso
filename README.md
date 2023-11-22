@@ -1,7 +1,7 @@
 ## Oii!Eu sou a Laís e tenho buscado ser minha melhor versão, a versão mais feliz!
 
 - 🔭 Atualmente estudante na universidade federal de uberlândia
-- 🌱 Estudando JavaScript 
+- 🌱 Me aventurando em JavaScript 
 
 
   <div style="display: inline_block"><br>
