@@ -1,4 +1,4 @@
-## Oii! Eu sou a Laís e tenho buscado ser minha melhor versão, a versão mais feliz!
+## Oii! Eu me chamo Laís e tenho buscado ser minha melhor versão, a versão mais feliz!
 
 - 🔭 Atualmente estudante na Universidade Federal de Uberlândia
 - 🌱 Me aventurando em JavaScript 
