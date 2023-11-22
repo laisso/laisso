@@ -1,7 +1,3 @@
-<style>
-  background-image: url("https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif");
-
-</style>
 #### Oii, Eu me chamo Laís e tenho buscado ser a minha melhor versão no universo de Tecnologia 🌸
 
 - 🔭 Cursando Sistemas de Informação na Universidade Federal de Uberlândia
