@@ -1,6 +1,7 @@
 ## Oii, Eu me chamo Laís e tenho buscado ser a minha melhor versão no universo de Tecnologia 💻
 
 - 🔭 Cursando Sistemas de Informação na Universidade Federal de Uberlândia
+- ✨ Frase motivacional • “Todos deveriam aprender a programar um computador, porque isso ensina a pensar.” - Steve Jobs
 - 🌱 Explorando o universo de JavaScript, nos momentos de tranquilidade, imersa em leituras, filmes e séries, e, acima de tudo, dedicando meu tempo precioso às pessoas que amo.
 
 
