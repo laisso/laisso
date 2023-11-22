@@ -1,7 +1,7 @@
 ## Oii! Eu me chamo Laís e tenho buscado ser minha melhor versão, a versão mais feliz!
 
 - 🔭 Cursando Sistemas de Informação na Universidade Federal de Uberlândia
-- 🌱 Explorando o universo de JavaScript, nos momentos de tranquilidade, imersa em leituras, filmes e séries,e, acima de tudo, dedicando meu tempo precioso às pessoas que amo.
+- 🌱 Explorando o universo de JavaScript, nos momentos de tranquilidade, imersa em leituras, filmes e séries, e, acima de tudo, dedicando meu tempo precioso às pessoas que amo.
 
 
   <div style="display: inline_block"><br>
