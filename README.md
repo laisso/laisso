@@ -1,7 +1,7 @@
 #### Oii!Eu sou a Laís, estudante de programação e tecnologia 👋🌸
 
 - 🔭 Cursando Sistemas de Informação na Universidade Federal de Uberlândia
-- ✨ Frase motivacional • “Todos deveriam aprender a programar um computador, porque isso ensina a pensar.” - Steve Jobs
+- ☕ Frase motivacional • “Todos deveriam aprender a programar um computador, porque isso ensina a pensar.” - Steve Jobs
 - 🌱 Explorando o universo de JavaScript, nos momentos de tranquilidade, imersa em leituras, filmes e séries, e, acima de tudo, dedicando meu tempo precioso às pessoas que amo.
 
 
