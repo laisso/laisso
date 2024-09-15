@@ -2,7 +2,7 @@
 
 - ☕ Cursando Sistemas de Informação na Universidade Federal de Uberlândia
 - ✨ Frase motivacional • “Todos deveriam aprender a programar um computador, porque isso ensina a pensar.” - Steve Jobs
-- 🌱 Explorando o universo de tecnologia e nos momentos de tranquilidade, imersa em leituras, filmes e séries, e, acima de tudo, dedicando meu tempo precioso às pessoas que amo.
+
 
 
   <div style="display: inline_block"><br>
