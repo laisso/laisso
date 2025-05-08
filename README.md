@@ -1,5 +1,7 @@
 👋 Oi! Sou a Laís, apaixonada por programação e tecnologia! 🌸
+
 💻 Estudante de Sistemas de Informação na Universidade Federal de Uberlândia, com foco em especialização em dados. Buscando sempre aprender, explorar e evoluir no universo da tecnologia
+
 ☕ Curto desafios, café e código bem escrito!
 
 
