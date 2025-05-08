@@ -4,8 +4,6 @@
 ✨ Frase motivacional:
 "Todos deveriam aprender a programar um computador, porque isso ensina a pensar." — Steve Jobs
 
-Essa versão dá um tom mais dinâmico e convidativo, ideal para um perfil no GitHub! O que acha? 😊
-
 
 
 
