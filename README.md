@@ -6,7 +6,7 @@
 
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://img.icons8.com/?size=100&id=RO6Tm3NdrSGE&format=png&color=000000">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
