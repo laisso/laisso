@@ -1,6 +1,8 @@
 # ☕ Laís Silva
 
-💻 Sou Estudante de Sistemas de Informação pela UFU, e atualmente, atuo como bolsista de extensão no projeto Diário de Ideias da minha faculdade, onde aplico meus conhecimentos para dar suporte às ações existentes, e tenho grande interesse em atuar na área de Dados em oportunidades futuras. 
+💻 Sou Estudante de Sistemas de Informação pela UFU
+
+Atualmente, atuo como bolsista de extensão no projeto Diário de Ideias da minha faculdade, onde aplico meus conhecimentos para dar suporte às ações existentes, e tenho grande interesse em atuar na área de Dados em oportunidades futuras. 
 
 ### 📌 Linguagens e Tecnologias 
 
