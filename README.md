@@ -1,6 +1,6 @@
 # ☕ Laís Silva
 
-💻 Estudante de Sistemas de Informação pela UFU
+💻 Estudante de Sistemas de Informação 
 
 📊 Minha trajetória profissional inclui experiência sólida em áreas administrativas, o que me proporcionou uma visão abrangente das operações de negócios. Atualmente, atuo como bolsista de extensão no projeto Diário de Ideias, onde aplico meus conhecimentos em Sistemas de Informação para dar suporte às ações existentes, e tenho grande interesse em atuar na área de Dados em oportunidades futuras. 
 
