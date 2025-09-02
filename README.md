@@ -13,7 +13,7 @@ Atualmente, estou cursando Sistemas de informação pela UFU. E tenho grande int
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="devicon-azuresqldatabase-plain colored" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
