@@ -44,12 +44,6 @@ Atualmente, estou cursando Sistemas de informação pela UFU. E tenho grande int
 />
 
 
-
-
-
-
-
-
 ### 📊 Estatísticas
 
 <p>
