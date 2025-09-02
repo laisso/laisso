@@ -90,3 +90,19 @@ Atualmente, estou cursando Sistemas de informação pela UFU. E tenho grande int
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laisso&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&cache_bust=2025-09-02-16-32-22" 
   />
 </p>
+
+<p>
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=Laisso&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=333&text_color=fff&icon_color=ff0000&title_color=ff0000&cache_bust=2025-09-02-16-32-22"
+/>
+
+<img
+align="left"
+alt="GitHub Top Languages"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laisso&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=333&text_color=fff&title_color=ff0000&cache_bust=2025-09-02-16-32-22"
+/></p>
