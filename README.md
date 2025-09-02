@@ -82,8 +82,6 @@ Atualmente, estou cursando Sistemas de informação pela UFU. E tenho grande int
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Laisso&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br&hide_border=true"
   />
-</p>
-<p>
   <img 
     align="left" 
     alt="GitHub Top Languages" 
