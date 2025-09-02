@@ -4,6 +4,7 @@ Me chamo Laís Silva, tenho 22 anos e sou natural de Uberlândia.
 Atualmente, estou cursando Sistemas de informação pela UFU. E tenho grande interesse em atuar na área de Dados em oportunidades futuras.
 
 ### 📌 Linguagens e Tecnologias 
+##
 <img 
     align="left" 
     alt="SQL"
