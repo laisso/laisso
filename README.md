@@ -5,7 +5,6 @@ Atualmente, estou cursando Sistemas de informação pela UFU. E tenho grande int
 
 ### 📌 Linguagens e Tecnologias 
 
-##
 
 <img 
     align="left" 
