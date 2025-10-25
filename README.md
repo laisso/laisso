@@ -2,7 +2,7 @@
 
 💻 Estudante de Sistemas de Informação
 
-# 📌 Linguagens e Tecnologias 
+📌 Linguagens e Tecnologias 
 
 
 <img 
