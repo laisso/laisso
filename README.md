@@ -14,7 +14,7 @@
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="25px" 
+    width="24px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
