@@ -9,7 +9,7 @@
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
