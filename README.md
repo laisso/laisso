@@ -18,7 +18,7 @@
     align="left" 
     alt="C"
     title="C" 
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
@@ -27,7 +27,7 @@
     align="left" 
     alt="Python"
     title="Python" 
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -36,7 +36,7 @@
     align="left" 
     alt="Postgresql"
     title="Postgresql" 
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
@@ -45,7 +45,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -54,7 +54,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -63,7 +63,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="20px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
