@@ -4,7 +4,6 @@
 - 🎓 Cursando **Sistemas de Informação** na UFU  
 - 📊 Estudando e me aprofundando na área de **Dados e Análise**  
 - 💡 Curiosa por tecnologia, negócios e inovação  
-- 🌱 Atualmente aprendendo **Python**, **SQL** e **Modelagem de Dados**
 
 ---
 
