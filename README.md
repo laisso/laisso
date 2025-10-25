@@ -2,7 +2,8 @@
 
 💻 Estudante de Sistemas de Informação
 
-Minha trajetória profissional inclui experiência em áreas administrativas, o que me proporcionou uma visão abrangente das operações de negócios. Atualmente, atuo como bolsista de extensão no projeto Diário de Ideias, onde aplico meus conhecimentos acadêmicos para dar suporte às ações existentes. 
+Minha trajetória profissional inclui experiência em áreas administrativas, o que me proporcionou uma visão abrangente das operações de negócios. 
+Atualmente, atuo como bolsista de extensão no projeto Diário de Ideias, onde aplico meus conhecimentos acadêmicos para dar suporte às ações existentes. 
 
 E tenho grande interesse em seguir carreira na área de Dados, concentrando meus estudos pessoais nesse campo, visando futuras oportunidades. 
 
