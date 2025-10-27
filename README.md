@@ -5,7 +5,7 @@
 - 📊 Estudando e me aprofundando na área de **Dados e Análise**  
 - 💡 Entusiasta por tecnologia, negócios e inovação 
 
----
+--
 
 ### 📌 Linguagens e Tecnologias 
 
