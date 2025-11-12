@@ -1,12 +1,12 @@
-# ☕ Laís Silva
+# Laís Silva
 
-### 🧠 Sobre mim
-- 🎓 Cursando **Sistemas de Informação** na UFU  
-- 📊 Estudando e me aprofundando na área de **Dados e Análise**  
-- 💡 Entusiasta por tecnologia, negócios e inovação 
+### Sobre mim
+- Cursando **Sistemas de Informação** na UFU  
+- Estudando e me aprofundando na área de **Dados e Análise**  
+- Entusiasta por tecnologia, negócios e inovação 
 
 
-### 📌 Linguagens e Tecnologias 
+### Linguagens e Tecnologias 
 
 
 <img 
