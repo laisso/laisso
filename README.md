@@ -1,9 +1,9 @@
 # Laís Silva Oliveira
 
 ### Sobre mim
-- Cursando **Sistemas de Informação** na UFU  
-- Estudando e me aprofundando na área de **Dados e Análise**  
+- Cursando **Sistemas de Informação** na UFU    
 - Entusiasta por tecnologia, negócios e inovação 
+- Estudando e me aprofundando na área de **Dados e Análise**
 
 
 ### Linguagens e Tecnologias 
