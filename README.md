@@ -3,7 +3,6 @@
 ### Sobre mim
 - Cursando **Sistemas de Informação**  
 - Entusiasta por tecnologia, negócios e inovação 
-- Estudando e me aprofundando na área de **Dados e Análise**
 
 
 ### Linguagens e Tecnologias 
